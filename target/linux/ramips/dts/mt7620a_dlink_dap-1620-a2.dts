@@ -186,6 +186,6 @@
 	#size-cells = <1>;
 
 	macaddr_factory_ffe8: macaddr@ffe8 {
-		reg = <0xffe8 0x11>;
+		reg = <0xffe8 0x6>;
 	};
 };
