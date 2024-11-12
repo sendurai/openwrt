@@ -208,7 +208,6 @@ endef
 TARGET_DEVICES += comfast_cf-wr800n
 
 define Device/dlink_dap-1620-a2
-  $(Device/seama-lzma-loader)
   DEVICE_VENDOR := D-Link
   DEVICE_MODEL := DAP-1620
   IMAGE_SIZE := 7872k
